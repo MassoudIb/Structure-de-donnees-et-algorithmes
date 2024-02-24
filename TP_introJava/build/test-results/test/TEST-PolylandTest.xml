@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PolylandTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2023-11-10T21:52:53" hostname="LAPTOP-DJEGNUAK" time="0.007">
+  <properties/>
+  <testcase name="testChoisirRandomDresseur()" classname="PolylandTest" time="0.0"/>
+  <testcase name="testTrouverCreature()" classname="PolylandTest" time="0.001"/>
+  <testcase name="testToString()" classname="PolylandTest" time="0.002"/>
+  <testcase name="testAjouterCreature()" classname="PolylandTest" time="0.001"/>
+  <testcase name="testRetirerDresseur()" classname="PolylandTest" time="0.0"/>
+  <testcase name="testTrouverDresseur()" classname="PolylandTest" time="0.001"/>
+  <testcase name="testAjouterDresseur()" classname="PolylandTest" time="0.0"/>
+  <testcase name="testChoisirRandomCreature()" classname="PolylandTest" time="0.001"/>
+  <testcase name="testChooseRandomCreature()" classname="PolylandTest" time="0.0"/>
+  <testcase name="testRetirerCreature()" classname="PolylandTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

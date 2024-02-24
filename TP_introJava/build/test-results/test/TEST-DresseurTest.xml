@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DresseurTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2023-11-10T21:52:53" hostname="LAPTOP-DJEGNUAK" time="0.01">
+  <properties/>
+  <testcase name="testEgaliteEtHashCode()" classname="DresseurTest" time="0.001"/>
+  <testcase name="testSupprimerCreature()" classname="DresseurTest" time="0.0"/>
+  <testcase name="testConstructeurCopie()" classname="DresseurTest" time="0.001"/>
+  <testcase name="testSetCreatures()" classname="DresseurTest" time="0.0"/>
+  <testcase name="testToString()" classname="DresseurTest" time="0.004"/>
+  <testcase name="testGetCreature()" classname="DresseurTest" time="0.001"/>
+  <testcase name="testAjouterCreature()" classname="DresseurTest" time="0.001"/>
+  <testcase name="testConstructeur()" classname="DresseurTest" time="0.0"/>
+  <testcase name="testGetNombreCreatures()" classname="DresseurTest" time="0.0"/>
+  <testcase name="testSetNom()" classname="DresseurTest" time="0.001"/>
+  <testcase name="testAttraperCreature()" classname="DresseurTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
